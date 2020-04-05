@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/victorlee917/portfolio_2020/static/js/main.0122295c.chunk.js",
-    "main.js.map": "/victorlee917/portfolio_2020/static/js/main.0122295c.chunk.js.map",
-    "runtime-main.js": "/victorlee917/portfolio_2020/static/js/runtime-main.6c10225d.js",
-    "runtime-main.js.map": "/victorlee917/portfolio_2020/static/js/runtime-main.6c10225d.js.map",
-    "static/js/2.d1caf6fc.chunk.js": "/victorlee917/portfolio_2020/static/js/2.d1caf6fc.chunk.js",
-    "static/js/2.d1caf6fc.chunk.js.map": "/victorlee917/portfolio_2020/static/js/2.d1caf6fc.chunk.js.map",
-    "index.html": "/victorlee917/portfolio_2020/index.html",
-    "precache-manifest.1f56dd07a37193ea612b97331f345482.js": "/victorlee917/portfolio_2020/precache-manifest.1f56dd07a37193ea612b97331f345482.js",
-    "service-worker.js": "/victorlee917/portfolio_2020/service-worker.js",
-    "static/js/2.d1caf6fc.chunk.js.LICENSE.txt": "/victorlee917/portfolio_2020/static/js/2.d1caf6fc.chunk.js.LICENSE.txt",
-    "static/media/BrunchBG.png": "/victorlee917/portfolio_2020/static/media/BrunchBG.cba32d26.png",
-    "static/media/InstaBG.png": "/victorlee917/portfolio_2020/static/media/InstaBG.31a77afd.png",
-    "static/media/Link.png": "/victorlee917/portfolio_2020/static/media/Link.9d267a98.png",
-    "static/media/Memoji.png": "/victorlee917/portfolio_2020/static/media/Memoji.660c1386.png"
+    "main.js": "/portfolio_2020/static/js/main.0122295c.chunk.js",
+    "main.js.map": "/portfolio_2020/static/js/main.0122295c.chunk.js.map",
+    "runtime-main.js": "/portfolio_2020/static/js/runtime-main.2b1e910a.js",
+    "runtime-main.js.map": "/portfolio_2020/static/js/runtime-main.2b1e910a.js.map",
+    "static/js/2.79d4ce2b.chunk.js": "/portfolio_2020/static/js/2.79d4ce2b.chunk.js",
+    "static/js/2.79d4ce2b.chunk.js.map": "/portfolio_2020/static/js/2.79d4ce2b.chunk.js.map",
+    "index.html": "/portfolio_2020/index.html",
+    "precache-manifest.e146306b3802276701a3ee501c903df9.js": "/portfolio_2020/precache-manifest.e146306b3802276701a3ee501c903df9.js",
+    "service-worker.js": "/portfolio_2020/service-worker.js",
+    "static/js/2.79d4ce2b.chunk.js.LICENSE.txt": "/portfolio_2020/static/js/2.79d4ce2b.chunk.js.LICENSE.txt",
+    "static/media/BrunchBG.png": "/portfolio_2020/static/media/BrunchBG.cba32d26.png",
+    "static/media/InstaBG.png": "/portfolio_2020/static/media/InstaBG.31a77afd.png",
+    "static/media/Link.png": "/portfolio_2020/static/media/Link.9d267a98.png",
+    "static/media/Memoji.png": "/portfolio_2020/static/media/Memoji.660c1386.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c10225d.js",
-    "static/js/2.d1caf6fc.chunk.js",
+    "static/js/runtime-main.2b1e910a.js",
+    "static/js/2.79d4ce2b.chunk.js",
     "static/js/main.0122295c.chunk.js"
   ]
 }
